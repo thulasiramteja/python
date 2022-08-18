@@ -14,11 +14,4 @@ def time():
 Label = Label(root, font=("ds-digital", 80), background = "black", foreground = "cyan")
 Label.pack(anchor='center')
 time()
-
-
-
-
-
-
-
 mainloop()
